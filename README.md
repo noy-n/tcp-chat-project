@@ -54,7 +54,7 @@ with each other in real time using sockets.
 
 \- `README.md` – Project description and instructions.
 
-\- `report/final\_report.pdf` – Final project report (PDF).
+\- `report/final_report.pdf` – Final project report (PDF).
 
 
 
