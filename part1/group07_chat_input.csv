@@ -1,0 +1,9 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,CHAT,Noy,Server,HELLO NOY,0.010
+2,CHAT,Server,Noy,INFO Welcome Noy!,0.020
+3,CHAT,Noy,Server,CONNECT ELIAS,0.030
+4,CHAT,Server,Elias,INFO Noy wants to chat with you,0.040
+5,CHAT,Elias,Server,ACCEPT CHAT,0.050
+6,CHAT,Noy,Elias,Hi Elias!,0.060
+7,CHAT,Elias,Noy,Hi Noy!,0.070
+8,CHAT,Noy,Elias,How are you?,0.080
