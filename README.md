@@ -1,6 +1,6 @@
-# tcp-chat-project
+# tcp chat project
 
-TCP/IP chat application – Computer Networks project
+TCP/IP chat application - Computer Networks project
 
 This project implements a simple TCP-based chat application as part of the
 
@@ -30,15 +30,15 @@ Project Overview:
 
 Files:
 
-- `server.py` – TCP chat server (Part 2).
-- `client.py` – TCP chat client (Part 2).
-- `README.md` – Project description and instructions.
+- `server.py` - TCP chat server (Part 2).
+- `client.py` - TCP chat client (Part 2).
+- `README.md` - Project description and instructions.
 
-- `part1/` – Files for Part 1 (Encapsulation & Wireshark):
-  - `group07_chat_input.csv` – Chat messages at the application layer.
-  - `tcp_ip_encapsulation.ipynb` – Jupyter notebook that simulates TCP/IP encapsulation and sends packets for capture.
+- `part1/` - Files for Part 1 (Encapsulation & Wireshark):
+  - `group07_chat_input.csv` - Chat messages at the application layer.
+  - `tcp_ip_encapsulation.ipynb` - Jupyter notebook that simulates TCP/IP encapsulation and sends packets for capture.
 
-- `report/final_report.pdf` – Final project report (PDF).
+- `report/final_report.pdf` - Final project report (PDF).
 
 ---
 
