@@ -28,24 +28,23 @@ Project Overview:
 ---
 
 
-Files
+Files:
 
+- `server.py` – TCP chat server (Part 2).
+- `client.py` – TCP chat client (Part 2).
+- `README.md` – Project description and instructions.
 
-\- `server.py` – TCP server implementation.
+- `part1/` – Files for Part 1 (Encapsulation & Wireshark):
+  - `group07_chat_input.csv` – Chat messages at the application layer.
+  - `tcp_ip_encapsulation.ipynb` – Jupyter notebook that simulates TCP/IP encapsulation and sends packets for capture.
 
-\- `client.py` – TCP client implementation.
-
-\- `README.md` – Project description and instructions.
-
-\- `report/final_report.pdf` – Final project report (PDF).
-
-
+- `report/final_report.pdf` – Final project report (PDF).
 
 ---
 
 
 
-Available Commands
+Available Commands:
 
 After starting a client, the following commands are supported:
 
@@ -100,7 +99,7 @@ How to run the project:
 
 ---
 
-Example Usage
+Example Usage:
 
 Client 1:
 
