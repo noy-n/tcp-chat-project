@@ -28,7 +28,7 @@ Project Overview:
 ---
 
 
-\## Files
+Files
 
 
 \- `server.py` – TCP server implementation.
