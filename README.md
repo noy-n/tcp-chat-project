@@ -35,7 +35,7 @@ Files:
 - `README.md` - Project description and instructions.
 
 - `part1/` - Files for Part 1 (Encapsulation & Wireshark):
-  - `group07_chat_input.csv` - Chat messages at the application layer.
+  - `group03_chat_input.csv` - Chat messages at the application layer.
   - `tcp_ip_encapsulation.ipynb` - Jupyter notebook that simulates TCP/IP encapsulation and sends packets for capture.
 
 - `report/final_report.pdf` - Final project report (PDF).
